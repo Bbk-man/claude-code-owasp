@@ -353,7 +353,7 @@ val len = javaString?.length ?: 0
 clazz.getDeclaredMethod(userInput)
 // SAFE: Allowlist methods
 ```
-**Watch for:** Java interop nulls (`!`), reflection, serialization, platform types
+**Watch for:** Java interop nulls (! operator), reflection, serialization, platform types
 
 ---
 
